@@ -1,0 +1,19 @@
+## 4. Spring Boot CRUD Web App
+
+**Description:**  
+A full-stack web application using Spring Boot and Thymeleaf to manage employee records.
+
+**Technologies Used:**  
+- Java 11+
+- Spring Boot, Spring MVC, Spring Data JPA
+- Thymeleaf
+- MySQL
+
+**Features:**  
+- Web forms to Create, Read, Update, Delete employees
+- Uses MySQL database
+
+**How to Run:**  
+1. Configure MySQL and `application.properties`
+2. Build with `mvn clean install`
+3. Run with `mvn spring-boot:run` or execute the `.jar` file
